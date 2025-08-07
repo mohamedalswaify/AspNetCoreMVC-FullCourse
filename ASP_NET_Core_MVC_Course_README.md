@@ -35,4 +35,10 @@
 
 ---
 
-### ✍️ Created by **Mohamed Alswaify**
+## 👤 Author Info
+
+- 👨‍🏫 **Mohamed Alswaify**  
+- 🌐 **Website:** [mohamed-alswaify.com](https://mohamed-alswaify.com)  
+- 🔗 **GitHub:** [github.com/mohamedalswaify](https://github.com/mohamedalswaify)  
+- 💼 **LinkedIn:** [linkedin.com/in/mohamedalswaify](https://www.linkedin.com/in/mohamedalswaify)   
+- 📘 **Facebook:** [facebook.com/Mohamed-Alswaify](https://www.facebook.com/Mohamed-Alswaify)
